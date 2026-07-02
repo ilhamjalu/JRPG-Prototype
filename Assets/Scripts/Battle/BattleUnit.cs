@@ -8,9 +8,9 @@ public class BattleUnit : MonoBehaviour
 
     [Header("Visual")]
     [SerializeField] private Animator animator;
-    [SerializeField] private SkillsAnimationController skillAnimationController;
+    [SerializeField] public SkillsAnimationController skillAnimationController;
 
-    [SerializeField] private Transform FloatingTextAnchor;
+    [SerializeField] public Transform FloatingTextAnchor;
 
     [SerializeField] private FloatingTextManager floatingTextManager;
 
