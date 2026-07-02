@@ -18,6 +18,8 @@ public class AudioManager : MonoBehaviour
     [SerializeField] private AudioClip defeatClip;
     [SerializeField] private AudioClip victoryClip;
 
+    [SerializeField] private AudioClip hurtClip;
+
     private void Awake()
     {
         Instance = this;
@@ -25,7 +27,7 @@ public class AudioManager : MonoBehaviour
 
     public void PlaySfx(AudioClip clip)
     {
-        uiSource.PlayOneShot(clip);
+        sfxSource.PlayOneShot(clip);
     }
 
     public void PlayUIClick()
@@ -36,6 +38,11 @@ public class AudioManager : MonoBehaviour
     public void PlayUIHover()
     {
         uiSource.PlayOneShot(hoverClip);
+    }
+
+    public void PlayHurtSfx()
+    {
+        sfxSource.PlayOneShot(hurtClip);
     }
 
     [ContextMenu("PLAY VICTORY")]

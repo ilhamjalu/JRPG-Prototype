@@ -51,6 +51,8 @@ public class BattleUnit : MonoBehaviour
         {
             PlayHitAnimation();
         }
+
+        AudioManager.Instance.PlayHurtSfx();
     }
 
     public int GetFinalDamage(int damage)

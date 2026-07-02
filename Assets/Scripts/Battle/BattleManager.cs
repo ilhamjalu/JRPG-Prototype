@@ -130,16 +130,6 @@ public class BattleManager : MonoBehaviour
         uiAnimation.PopIn(currentBattleUnitIndex);
     }
 
-    public bool IsLastCharacter()
-    {
-        if (currentBattleUnitIndex == playerParty.Count - 1)
-        {
-            return true;
-        }
-
-        return false;
-    }
-
     private void FinishPlanning()
     {
         StartCoroutine(ResolveActions());

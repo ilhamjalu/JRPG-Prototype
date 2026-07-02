@@ -4672,6 +4672,7 @@ MonoBehaviour:
   clickClip: {fileID: 8300000, guid: c5cb2ac29e89dbf43a9b644caaad45e6, type: 3}
   defeatClip: {fileID: 8300000, guid: 01786f8bceb1e14438a85d7c845e1db9, type: 3}
   victoryClip: {fileID: 8300000, guid: e1ea5734f7cd4dc469e4d74b48b02a01, type: 3}
+  hurtClip: {fileID: 8300000, guid: c79ace3ec1e9c7c42b563ee56e3b19e2, type: 3}
 --- !u!1 &1108671261
 GameObject:
   m_ObjectHideFlags: 0
