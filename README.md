@@ -29,7 +29,6 @@ A small turn-based RPG prototype developed in **Unity** as part of a programming
 - Skill system
 - Single-target and ally-target skills
 - Buff and healing skills
-- Enemy AI
 - Battle UI
 - Win / Defeat flow
 
@@ -57,7 +56,6 @@ This project uses several third-party assets:
 
 - Fungus (Dialogue System)
 - LeanTween
-- TextMesh Pro
 
 Visual, audio, and UI assets are used for demonstration purposes.
 
