@@ -44,7 +44,7 @@ A small turn-based RPG prototype developed in **Unity** as part of a programming
 
 ### Exploration
 - **WASD** - Move
-- **E** - Interact
+- **Space** - Interact
 
 ### Battle
 - **Mouse** - Select skills
