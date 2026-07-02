@@ -2823,7 +2823,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -31
-    y: 30
+    y: 28
     width: 110
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -2853,7 +2853,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 285.5, y: 302}
+  scrollPos: {x: 279.5, y: 258}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
@@ -2867,7 +2867,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 648462592}
   selectedCommands:
-  - {fileID: 648462600}
+  - {fileID: 648462597}
   variables: []
   description: 
   stepPause: 0
@@ -2967,7 +2967,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: hahaha, aku keren kan ayah?!!
   description: 
-  character: {fileID: 581246914}
+  character: {fileID: 1220133946}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
