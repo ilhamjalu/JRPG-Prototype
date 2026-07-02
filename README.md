@@ -2,6 +2,14 @@
 
 # 
 
+# !\[Gameplay](Docs/dialog.png)
+
+# !\[Gameplay](Docs/battle.png)
+
+
+
+
+
 # A small turn-based RPG prototype developed in \*\*Unity\*\* as part of a programming pre-interview test.
 
 # 
