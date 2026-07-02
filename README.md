@@ -1,7 +1,17 @@
 # Turn-Based RPG Battle Demo
 
-![Gameplay](Docs/dialog.png)
-![Gameplay](Docs/battle.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="Docs/dialog.png" width="450"><br>
+      <b>Dialog</b>
+    </td>
+    <td align="center">
+      <img src="Docs/battle.png" width="450"><br>
+      <b>Battle</b>
+    </td>
+  </tr>
+</table>
 
 A small turn-based RPG prototype developed in **Unity** as part of a programming pre-interview test.
 
