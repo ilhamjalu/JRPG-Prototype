@@ -1,4 +1,4 @@
-# Turn-Based RPG Battle Demo
+# Turn-Based JRPG Battle Demo
 
 <table>
   <tr>
