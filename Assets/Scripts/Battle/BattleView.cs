@@ -10,8 +10,7 @@ public class BattleView : MonoBehaviour
     [SerializeField] private Slider supportHP;
     [SerializeField] private Slider enemyHpBar;
 
-    [SerializeField]
-    private TMP_Text battleLog;
+    [SerializeField] private TMP_Text battleLog;
 
     [SerializeField] private AvatarAnimation avatarAnimation;
     [SerializeField] private AvatarAnimation enemyAvatarAnimation;
