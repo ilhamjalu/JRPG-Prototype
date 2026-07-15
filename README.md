@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-A small turn-based RPG prototype developed in **Unity** as part of a programming pre-interview test.
+An example code for a small turn-based RPG prototype developed in Unity.
 
 ## Features
 
