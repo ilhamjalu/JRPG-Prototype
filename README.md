@@ -7,7 +7,7 @@
       <b>Dialog</b>
     </td>
     <td align="center">
-      <img src="Docs/battle.png" width="450"><br>
+      <img src="Docs/battle_gameplay.gif" width="450"><br>
       <b>Battle</b>
     </td>
   </tr>
@@ -39,6 +39,7 @@ An example code for a small turn-based RPG prototype developed in Unity.
 - Timeline integration
 - LeanTween UI animations
 - Object-oriented architecture
+- Clean and maintainable code structure
 
 ## Controls
 
