@@ -13,7 +13,9 @@
   </tr>
 </table>
 
-An example code for a small turn-based RPG prototype developed in Unity.
+A turn-based JRPG prototype developed in **Unity**, featuring exploration, NPC interaction, a party-based battle system, and story-driven cutscenes. This project focuses on building a modular gameplay architecture while keeping the gameplay simple and easy to expand.
+
+[![Play on itch.io](https://img.shields.io/badge/Play%20on-itch.io-fa5c5c?logo=itch.io&logoColor=white)](https://loneskiee.itch.io/jrpg-prototype)
 
 ## Features
 
